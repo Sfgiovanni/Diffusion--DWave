@@ -1,0 +1,11 @@
+bin_variable,bin_center,classical_mean,classical_sem,qpu_mean,qpu_sem,sqa_mean,sqa_sem,n_seeds
+delta (correlated-error angle in rad),-0.942478,0.751987,0.022888,0.703846,0.002519,0.693423,0.003864,3
+delta (correlated-error angle in rad),-0.733038,0.815052,0.022377,0.787377,0.032374,0.776312,0.035422,3
+delta (correlated-error angle in rad),-0.523599,0.870743,0.016976,0.828812,0.016521,0.819825,0.018953,3
+delta (correlated-error angle in rad),-0.314159,0.88079,0.020353,0.817564,0.021418,0.82218,0.02257,3
+delta (correlated-error angle in rad),-0.10472,0.890728,0.00974,0.844199,0.014552,0.845778,0.012688,3
+delta (correlated-error angle in rad),0.10472,0.868817,0.021612,0.841834,0.022247,0.851237,0.027694,3
+delta (correlated-error angle in rad),0.314159,0.863326,0.012215,0.835465,0.013596,0.83855,0.010733,3
+delta (correlated-error angle in rad),0.523599,0.827348,0.022213,0.80852,0.005383,0.803504,0.002621,3
+delta (correlated-error angle in rad),0.733038,0.779665,0.021169,0.746566,0.015226,0.75272,0.022249,3
+delta (correlated-error angle in rad),0.942478,0.734546,0.029038,0.698678,0.043891,0.698069,0.053013,3

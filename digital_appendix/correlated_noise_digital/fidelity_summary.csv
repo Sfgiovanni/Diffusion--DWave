@@ -1,0 +1,5 @@
+method,mean,sem,count
+bayes_linear,0.669969,9.3e-05,15
+oracle_analytic,0.712316,0.000333,15
+ridge_classical,0.836043,0.001013,15
+ridge_qrc_digital,0.844377,0.001221,15
